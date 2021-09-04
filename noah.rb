@@ -7,7 +7,7 @@ class Noah < Formula
 
   bottle do
     root_url "https://dl.bintray.com/linux-noah/noah"
-    sha256 "c59bb163848832f921fcc8124345ab9a8f85b807944161ee94b8cc673006756a" => :sierra
+    #sha256 "c59bb163848832f921fcc8124345ab9a8f85b807944161ee94b8cc673006756a" => :sierra
   end
 
   depends_on "noahstrap"
